@@ -7,4 +7,3 @@
 ### Erik Kollmer
 ##### Aspiring data scientist
 ##### **Playboi Carti** invented music
-<a href="blog.md">blog</a>

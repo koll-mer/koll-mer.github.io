@@ -1,2 +1,2 @@
-## yo pierre you wanna come out HERE
-**BOLD**
+### Erik Kollmer
+##### Aspiring data scientist
